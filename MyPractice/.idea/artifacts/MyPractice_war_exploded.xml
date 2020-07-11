@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyPractice:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyPractice_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MyPractice/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyPractice" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="lombok" />
+          <element id="library" level="project" name="springmvc" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="hibernate-validate" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

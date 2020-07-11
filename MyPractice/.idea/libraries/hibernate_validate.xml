@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hibernate-validate">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../jar/hibernate-validate" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../jar/hibernate-validate" recursive="false" />
+  </library>
+</component>
